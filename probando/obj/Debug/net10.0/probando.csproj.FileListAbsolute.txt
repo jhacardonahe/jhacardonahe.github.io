@@ -1,0 +1,15 @@
+/workspaces/jhacardonahe.github.io/probando/bin/Debug/net10.0/probando
+/workspaces/jhacardonahe.github.io/probando/bin/Debug/net10.0/probando.deps.json
+/workspaces/jhacardonahe.github.io/probando/bin/Debug/net10.0/probando.runtimeconfig.json
+/workspaces/jhacardonahe.github.io/probando/bin/Debug/net10.0/probando.dll
+/workspaces/jhacardonahe.github.io/probando/bin/Debug/net10.0/probando.pdb
+/workspaces/jhacardonahe.github.io/probando/obj/Debug/net10.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/jhacardonahe.github.io/probando/obj/Debug/net10.0/probando.AssemblyInfoInputs.cache
+/workspaces/jhacardonahe.github.io/probando/obj/Debug/net10.0/probando.AssemblyInfo.cs
+/workspaces/jhacardonahe.github.io/probando/obj/Debug/net10.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/jhacardonahe.github.io/probando/obj/Debug/net10.0/probando.sourcelink.json
+/workspaces/jhacardonahe.github.io/probando/obj/Debug/net10.0/probando.dll
+/workspaces/jhacardonahe.github.io/probando/obj/Debug/net10.0/refint/probando.dll
+/workspaces/jhacardonahe.github.io/probando/obj/Debug/net10.0/probando.pdb
+/workspaces/jhacardonahe.github.io/probando/obj/Debug/net10.0/probando.genruntimeconfig.cache
+/workspaces/jhacardonahe.github.io/probando/obj/Debug/net10.0/ref/probando.dll
